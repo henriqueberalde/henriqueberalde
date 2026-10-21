@@ -4,9 +4,13 @@ Carlos Henrique Beralde
 Software Engineer Backend | Tech Lead
 ------------------------------------------------------------------
 
-Software engineer for 18 years, I have worked in companies as: games, banks, e-commerce and cryptocurrency broker, always as a backend software developer. I have experience with the following languages / technologies: .Net, Javascript, Python, Ruby on Rails, Nodejs, Airflow, AWS, Redshift, Mysql, Sql Server, Postgres, Angular, React, RabbitMQ, Redis...
+Software Engineer with almost 20 years of experience in .NET, Node.js, Python. Open to remote roles with international teams. I'm a Software Engineer and Tech Lead with experience building and leading digital products across industries such as digital certification, cryptocurrency, gaming, and corporate governance, at companies including Lacuna Software, Foxbit, Level Up, and Grupo Assaf. I work end to end, from product conception to production operations. As a leader, I've managed teams of up to 7 people, introducing Scrum, technical DOJOs, and cross-squad alignment rituals that brought more clarity, organization, and motivation to the teams. I also integrate AI into my day-to-day development workflow.
 
-* 🌍  I'm based in São Paulo, Brazil
+Among my key achievements, I led the development of e-Not Provas, a solution that captures digital evidence with notarial certification using a server-side browser streamed to the user via WebRTC, creating a new revenue stream for notary offices across Brazil. At Foxbit, I took part in migrating the exchange's matching engine from a third-party vendor to in-house technology, saving an estimated R$100,000 (USD 20,000) per month; implemented Brazilian Federal Revenue Service regulation IN 1,888, securing the company's right to operate as a crypto exchange in Brazil; and built the BI department from scratch, enabling data-driven decision-making and billing automation. I was also the lead interviewer in more than 20 hiring processes, which resulted in 5 hires with an average tenure of over 2 years. At Level Up, I created the Support Center, which drastically reduced support tickets and had an article reach nearly 1 million views in about 6 months.
+
+I hold an MBA in Business Analytics and Big Data from Fundação Getulio Vargas (FGV), one of the most respected teaching and research institutions in Latin America. FGV was ranked the 3rd most important think tank in the world by the University of Pennsylvania's Global Go To Think Tank Index, and was named the most influential think tank in Latin America for 12 consecutive years.
+
+* 🌍  Based in Brazil (UTC−3), with good overlap with US and European working hours. Comfortable with async communication and distributed teams.
 * ✉️  You can contact me at [henrique.beralde@gmail.com](mailto:henrique.beralde@gmail.com)
 
 ### Skills
